@@ -1,0 +1,4 @@
+repository "Com4008 Game@KWLS10@cloud"
+  path "/"
+    br "/main"
+    co "/main"
