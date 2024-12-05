@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire Orb Weapon gif_0: 6522738090947087329
+      Fire Orb Weapon gif_1: 9142788118950860361
+      Fire Orb Weapon gif_2: 7482873987779473013
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

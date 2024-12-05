@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight_V2-Basic_Idle_with_holy_book_0: -9207647390192302355
+      Knight_V2-Basic_Idle_with_holy_book_1: 1859142257256121977
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

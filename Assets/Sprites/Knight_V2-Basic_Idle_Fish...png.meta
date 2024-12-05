@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight_V2-Basic_Idle_Fish.._0: -6905595514434579281
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

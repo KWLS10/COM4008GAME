@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mana Orb Pickup_0: -8437690921418438484
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

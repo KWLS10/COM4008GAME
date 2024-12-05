@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ray of light gif_0: -2139211747447342921
+      Ray of light gif_1: 3558296068434409807
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

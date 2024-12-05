@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-_Hrut_Frame_Book_0: -7963432871125703706
+      Knight-_Hrut_Frame_Book_1: 6794818040735850476
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

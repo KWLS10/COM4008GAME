@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ray of light_0: 3416256531042314798
+      Ray of light_1: -8201324761196085971
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

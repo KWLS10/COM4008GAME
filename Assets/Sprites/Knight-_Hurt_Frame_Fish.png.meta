@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-_Hurt_Frame_Fish_0: -5144897542480543717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

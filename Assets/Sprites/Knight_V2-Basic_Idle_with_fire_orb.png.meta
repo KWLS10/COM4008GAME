@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight_V2-Basic_Idle_with_fire_orb_0: 5958739948349951011
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

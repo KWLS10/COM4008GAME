@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-_Hurt_Idle_0: 8362376722490657287
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

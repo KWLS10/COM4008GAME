@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-_Hurt_Frame_Fire_Orb_0: -495998482462413514
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

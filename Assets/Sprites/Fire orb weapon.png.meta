@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire orb weapon_0: -6165442982141359144
+      Fire orb weapon_1: -2074343636429784287
+      Fire orb weapon_2: -6595230198379223590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
